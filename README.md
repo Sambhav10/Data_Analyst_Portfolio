@@ -4,7 +4,7 @@ Welcome to my Data Analyst Portfolio!
 
 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions.
 I am proficient in Excel, R, SQL, Excel , and Tableau, and have a solid understanding of data analytics techniques such as dashboard building,
-report writing, data mining, data merging, statistics, and critical thinking.
+report writing, and critical thinking.
 
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. 
 You will find links of the dashboards and reports I have created using various tools such as Tableau, and Excel.
