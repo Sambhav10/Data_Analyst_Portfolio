@@ -13,9 +13,13 @@ Is there any relationship between who a person works for and their performance s
 6.	Avg Engagement Survey 
 7.	Avg Employe Satisfaction
 
-**Tools Used**
+**Tools Used**   
+
 SQL - Data Cleaning , Data Analysis    
-Tableau - Data Visualiation 
+Tableau - Data Visualiation     
+
+
+
 
  **Link to Code**  
  - [SQL Code](https://github.com/Sambhav10/Data_Analyst_Portfolio/blob/main/SQL/HR_Analysis_Query.sql)
