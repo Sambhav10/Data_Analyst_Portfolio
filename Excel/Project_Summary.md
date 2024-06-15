@@ -4,28 +4,23 @@ Data Source - https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&
 
 **   Business Task **
       
--Trends of sales over time 
+1.Trends of sales over time 
+2. Busiest time , date, and month
+3. Best sold products and least sold products
+4. What sizes coffees do people generally prefer
 
--Busiest time , date, and month 
-
--Best sold products and least sold products
-
--What sizes coffees do people generally prefer
 
   **Process **
       
 Data Cleaning 
 
--Checked if there is any duplicate data 
-
--Named the table header properly.
-
--Corrected the format of the data
-
--Checked if there is any null values. 
+1.Checked if there is any duplicate data 
+2.Named the table header properly.
+3.Corrected the format of the data
+4.Checked if there is any null values. 
 
 
-**Data Analysis **
+Data Analysis
 
 -	Extracting month and date from the  transaction_date column using 
 = Text(B2 ,”mmm”) , Text(B2, “ddd”)
