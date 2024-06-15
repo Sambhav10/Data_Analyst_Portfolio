@@ -14,7 +14,7 @@ Is there any relationship between who a person works for and their performance s
 7.	Avg Employe Satisfaction
 
 **Tools Used**
-SQL - Data Cleaning , Data Analysis 
+SQL - Data Cleaning , Data Analysis    
 Tableau - Data Visualiation 
 
  **Link to Code**  
