@@ -2,7 +2,7 @@
 
 Data Source - https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=4&pageSize=5
 
-**   Business Task **
+**Business Task**
       
 1.Trends of sales over time           
 2. Busiest time , date, and month     
@@ -10,7 +10,7 @@ Data Source - https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&
 4. What sizes coffees do people generally prefer      
 
 
-  **Process **
+  **Process**
       
 Data Cleaning 
 
@@ -37,7 +37,7 @@ Transaction quantity * unit price
 Once I transform the data , I am gonna format it as a table so it will be easier to put the info in a pivot table. 
 
 
-** Dashboard**
+**Dashboard**
 
 
 ![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/b9639ba7-8084-46e6-8b5b-b2f3238dff78)
