@@ -3,8 +3,8 @@
 ```
 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
-**Link to the Code -[Online_Sales_Analysis.ipynb](http://localhost:8888/notebooks/Online_Sales_Analysis.ipynb/).**
+
+**Link to the Code - [Online_Sales_Analysis.ipynb](http://localhost:8888/notebooks/Online_Sales_Analysis.ipynb/).**
 
 
 
