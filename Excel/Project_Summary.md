@@ -12,7 +12,7 @@ Data Source - https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&
 
   **Process**
       
-Data Cleaning 
+a. Data Cleaning 
 
 1.Checked if there is any duplicate data      
 2.Named the table header properly     
@@ -20,7 +20,7 @@ Data Cleaning
 4.Checked if there is any null values    
 
 
-Data Analysis
+b. Data Analysis
 
 -	Extracting month and date from the  transaction_date column using 
 = Text(B2 ,”mmm”) , Text(B2, “ddd”)
