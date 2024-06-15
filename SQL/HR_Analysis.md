@@ -17,8 +17,16 @@ Is there any relationship between who a person works for and their performance s
 SQL - Data Cleaning , Data Analysis 
 Tableau - Data Visualiation 
 
- -**Link to Dashboard**
+ **Link to Code**  
+ - [SQL Code](https://github.com/Sambhav10/Data_Analyst_Portfolio/blob/main/SQL/HR_Analysis_Query.sql)
+
+
+   
+
+ **Link to Dashboard**
 - [HR Analysis](https://public.tableau.com/app/profile/sambhav.timalsina/viz/HRAnalysisDashboard_17176218574850/Main_DashBoard)
+
+
 
 
 
