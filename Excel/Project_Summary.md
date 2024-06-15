@@ -2,20 +2,24 @@
 
 Data Source - https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=4&pageSize=5
 
-Business Task 
+      Business Task 
+      
 -Trends of sales over time 
-- Busiest time , date, and month 
+-Busiest time , date, and month 
 -Best sold products and least sold products
 -What sizes coffees do people generally prefer
 
-Process 
+    Process 
+      
 Data Cleaning 
+
 -Checked if there is any duplicate data 
 -Named the table header properly.
 -Corrected the format of the data
 -Checked if there is any null values. 
 
 Data Analysis 
+
 -	Extracting month and date from the  transaction_date column using 
 = Text(B2 ,”mmm”) , Text(B2, “ddd”)
 
@@ -29,7 +33,7 @@ Transaction quantity * unit price
 Once I transform the data , I am gonna format it as a table so it will be easier to put the info in a pivot table. 
 
 
-Dashboard
+          Dashboard
 
 
 ![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/b9639ba7-8084-46e6-8b5b-b2f3238dff78)
