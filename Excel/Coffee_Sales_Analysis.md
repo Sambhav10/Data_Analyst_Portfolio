@@ -6,7 +6,7 @@ Data Source - https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&
       
 1.Trends of sales over time           
 2. Busiest time , date, and month     
-3. Best sold products and least sold products      
+3. Best sold products and least sold products     
 4. What sizes coffees do people generally prefer      
 
 
