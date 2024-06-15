@@ -37,7 +37,10 @@ Transaction quantity * unit price
 Once I transform the data , I am gonna format it as a table so it will be easier to put the info in a pivot table. 
 
 
+
+
 **Dashboard**
+
 
 
 ![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/b9639ba7-8084-46e6-8b5b-b2f3238dff78)
