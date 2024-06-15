@@ -16,7 +16,7 @@
 #3. Investigate the impact of payment methods on sales volume or revenue.
 #4. Identify top-selling products within each category to optimize inventory and marketing strategies.
 #5. Evaluate the performance of specific products or categories in different regions to tailor
-marketing campaigns accordingly.
+#marketing campaigns accordingly.
 ```
 
 
