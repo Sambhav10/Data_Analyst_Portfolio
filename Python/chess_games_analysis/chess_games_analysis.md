@@ -1761,8 +1761,8 @@ plt.show()
 ```
 
 
-    
-![png](output_29_0.png)
+![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/86cab85c-83f2-4e7a-b327-ec7bc2323120)
+
     
 
 
@@ -1976,10 +1976,9 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/e7f4199d-0172-4821-9468-1d4004e8ac34)
+
     
-
-
 
 ```python
 #3- Which openings different level of chess players ususally prefer ? 
@@ -2439,7 +2438,8 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/6d9ccc84-f356-4103-b246-57b3c0dc0f28)
+
     
 
 
@@ -2503,7 +2503,8 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/601b8523-79b2-466d-86d4-c9ef52f96d8b)
+
     
 
 
@@ -2683,7 +2684,8 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/6c20d9aa-19ac-40e8-b530-a0271bfb569f)
+
     
 
 
@@ -2984,8 +2986,8 @@ plt.show()
 ```
 
 
-    
-![png](output_46_0.png)
+![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/b856c252-29d6-4b2d-bb6c-1e4e5b47cbe2)
+
     
 
 
