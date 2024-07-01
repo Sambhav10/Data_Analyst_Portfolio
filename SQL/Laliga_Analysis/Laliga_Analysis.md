@@ -10,17 +10,17 @@
 5. best  / worse home  records     
 6. best / worse away records
 7. Most goal scored vs conceded across seasons
-8.  Which  team is perfoming better overall ? 
--- We are gonna compare this with the following metrics 
-		-- goal scored 
-        -- goal conceded 
-		-- xg  -  means how many chances your team is getting to score a goal 
-        -- xga  - means how many chances your opponent is getting to score a goal against your team 
+8.  Which  team is perfoming better overall ?    
+-- We are gonna compare this with the following metrics   
+	 -- goal scored  
+        -- goal conceded  
+	-- xg  -  means how many chances your team is getting to score a goal  
+        -- xga - means how many chances your opponent is getting to score a goal against your team
     
-    --   Idea behind this is 
-     --  if avg of goal scored is greater than the average of xg( chance created ) and 
-      -- if avg of goal conceded is less than average of xga(chanced conceded) then we can 
-      -- that they are overpoforming  
+    --   Idea  
+     --  if avg of goal scored is greater than the average of xg( chance created ) and  
+      -- if avg of goal conceded is less than average of xga(chanced conceded) then we know they are overpoforming
+    
 
 
 **Tools Used**   
