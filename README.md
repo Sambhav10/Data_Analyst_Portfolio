@@ -7,5 +7,5 @@ I am proficient in Excel,  SQL, Python, and Tableau, and have a solid understand
 report writing, and critical thinking.
 
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. 
-You will find links of the dashboards and reports I have created using various tools such as Tableau, and Excel.
+You will find links of the dashboards and reports I have created using various tools such as Tableau,Python and Excel.
 These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
