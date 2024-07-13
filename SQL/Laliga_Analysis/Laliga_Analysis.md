@@ -19,7 +19,7 @@
     
     --   Idea  
      --  if avg of goal scored is greater than the average of xg( chance created ) and  
-      -- if avg of goal conceded is less than average of xga(chanced conceded) then we know they are overpoforming
+      -- if avg of goal conceded is less than average of xga(chanced conceded) then we know they are overperforming
     
 
 
