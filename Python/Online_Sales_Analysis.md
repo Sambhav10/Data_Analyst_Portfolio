@@ -954,9 +954,8 @@ plt.show()
     
 
 
-    
-![png](output_19_1.png)
-    
+![image](https://github.com/user-attachments/assets/38b4ea55-0fef-4f2c-9fd0-bbe273290698)
+
 
 
 
@@ -1055,7 +1054,8 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![image](https://github.com/user-attachments/assets/43fdabea-50c7-4a6e-8499-25be5dbd289b)
+
     
 
 
@@ -1135,7 +1135,8 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![image](https://github.com/user-attachments/assets/f744b85a-bcc1-4856-ae0d-0b67f81466f1)
+
     
 
 
@@ -1304,14 +1305,7 @@ plt.show()
 ```
 
 
-    <Figure size 1000x600 with 0 Axes>
-
-
-
-    
-![png](output_28_1.png)
-    
-
+![image](https://github.com/user-attachments/assets/fd6d8d55-4862-4425-ad09-6e23be28f1d6)
 
 
 ```python
@@ -1404,6 +1398,6 @@ plt.show()
 ```
 
 
-    
-![png](output_31_0.png)
+![image](https://github.com/user-attachments/assets/5b43b05b-8fdc-43b2-ae73-4834664e6c23)
+
     
