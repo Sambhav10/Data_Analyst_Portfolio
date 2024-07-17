@@ -3,7 +3,7 @@
 
 **Business Task**
       
-1. most wins for a team  across three season (2023/2022/2021)
+1. most wins for a team  across seasons (2021-2022 , 2022-2023)
 2. Average possession  per season  
 3. most shot vs most shot on target 
 4. top 10 games with most attendance
