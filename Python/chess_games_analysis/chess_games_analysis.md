@@ -2989,10 +2989,31 @@ plt.show()
 
 ![image](https://github.com/Sambhav10/Data_Analyst_Portfolio/assets/85670420/b856c252-29d6-4b2d-bb6c-1e4e5b47cbe2)
 
+
+
+# Conclusion 
+1. A significant portion, around 30% of chess players, have an average rating between 1400 and 1599, totaling approximately 6081 players.
+2. Across all rating levels, players consistently have a higher chance of winning games when playing with the white pieces compared to the black pieces.
+3. The Sicilian Defense is the most frequently played opening among chess players, accounting for 13% of all games (2632 games). This means in every 100 games, 13 feature the Sicilian Defense.
+4. When played with the black pieces, the Sicilian Defense offers a higher chance of winning compared to playing with the white pieces. Specifically, out of 2632 games, 50% were won by black, 46% by white, and 4% ended in a draw.
+5. The Caro-Kann Defense stands out as a solid opening, characterized by games averaging 66 turns (each turn being a move made by both players).
+6. Interestingly, a significant number of chess players choose to resign rather than face checkmate. Approximately one out of every two games results in a resignation.
+   
+   
+
+
+
+
+
+
+
+
     
 
 
 
 ```python
+
+
 
 ```
