@@ -4,7 +4,7 @@
 
 
 
-**Link to the Code - [Online_Sales_Analysis.ipynb](http://localhost:8888/notebooks/Online_Sales_Analysis.ipynb/).**
+
 
 
 
