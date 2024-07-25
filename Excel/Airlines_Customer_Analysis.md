@@ -8,24 +8,24 @@ Data Source - https://mavenanalytics.io/data-playground
 2.	What is the customer profile for a repeating airline passenger?
 3.	Does flight distance affect customer preferences or flight patterns?
 4.	Which factors contribute to customer satisfaction the most? What about dissatisfaction?
-  
+           
 
 
   **Process**
       
-a. Data Cleaning 
+a. Data Cleaning      
 
 - Duplicate entries were identified and removed to ensure the dataset's accuracy.
 - Approximately 390 entries with null or empty values were detected and replaced with zeros to maintain data integrity.
 - Flight distances recorded in miles were converted to kilometers for easier interpretation.
   This conversion used the formula: Distance in Kilometers = Distance in Miles × 1.60934.
    For example, the distance in cell G2 was converted using the formula G2 × 1.60934.
-- Age data was categorized into distinct groups using a conditional formula:
-  if age is 12 or younger, the individual is classified as a "Child";
-  ages between 13 and 19 are classified as "Teen";
-  ages between 20 and 39 are classified as "Adult";
-  ages between 40 and 59 are classified as "Middle Aged";
-  and ages 60 or older are classified as "Senior."
+- Age data was categorized into distinct groups using a conditional formula:    
+  if age is 12 or younger, the individual is classified as a "Child";   
+  ages between 13 and 19 are classified as "Teen";    
+  ages between 20 and 39 are classified as "Adult";      
+  ages between 40 and 59 are classified as "Middle Aged";    
+  and ages 60 or older are classified as "Senior."      
 
 b. Data Analysis
 
