@@ -34,10 +34,6 @@ b. Data Analysis
 -	Calculating the total amount of the single transaction made
 Transaction quantity * unit price
 
-Once I transform the data , I am gonna format it as a table so it will be easier to put the info in a pivot table. 
-
-
-
 
 **Dashboard**
 
