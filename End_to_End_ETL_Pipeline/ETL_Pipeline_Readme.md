@@ -2,10 +2,10 @@
 # Description
  
 In this student performance factor data engineering and analysis project,I have build and automate a Python ETL (Extract, Transform, Load) pipeline using AWS 
-services. The process begins by leveraging AWS Glue to load data from an S3 bucket into an Amazon Redshift data warehouse. An AWS Glue Crawler will infer schemas 
-and create a data catalog, allowing us to use Amazon Athena for serverless SQL querying on the data. Subsequently, the crawled data will be loaded into Redshift for 
-advanced analytics. To visualize the insights, we will connect Power BI to the Redshift cluster, creating interactive dashboards. Finally, Apache Airflow will
-orchestrate and automate the entire pipeline, ensuring each step is executed in the correct sequence, providing a comprehensive hands-on experience in data
+services. The process begins by leveraging AWS Glue to load data from an S3 bucket into an Amazon Redshift data warehouse. An AWS Glue Crawler infered schemas 
+and created a data catalog, allowing me to use Amazon Athena for serverless SQL querying on the data. Subsequently, the crawled data was  loaded into Redshift for 
+advanced analytics. I connected Power BI to the Redshift cluster to visualize the insights, creating interactive dashboards. Finally, Apache Airflow 
+orchestrated and automated the entire pipeline, ensuring each step was executed in the correct sequence, providing a comprehensive hands-on experience in data
 engineering and analytics.
 
 **Data Source** -[a link](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/)
