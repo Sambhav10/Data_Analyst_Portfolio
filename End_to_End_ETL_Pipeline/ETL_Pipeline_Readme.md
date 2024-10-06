@@ -1,4 +1,4 @@
-                               **   ************* Student Performance Factor End to End Porject  ***************
+                               **   ************* Student Performance Factor End to End Project  ***************
 # Description
  
 In this student performance factor data engineering and analysis project,I have build and automate a Python ETL (Extract, Transform, Load) pipeline using AWS 
