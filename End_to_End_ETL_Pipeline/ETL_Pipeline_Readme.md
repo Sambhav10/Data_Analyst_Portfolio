@@ -20,7 +20,7 @@ engineering and analytics.
 7. **Apache Airflow**- Workflow orchestration. Automates and manages the ETL pipeline, ensuring tasks are executed in the correct sequence and monitoring their progress.
 
 
-![image](https://github.com/user-attachments/assets/8003e9f8-2f21-43f4-a3e3-a4b2a587483e)
+![image](https://github.com/user-attachments/assets/e9a07e48-7aa3-4553-b24b-70a635393853)
 
 
 
@@ -122,6 +122,41 @@ engineering and analytics.
     - Used the "Transform" feature in Power BI to standardize the data for analysis and visualization.
    
       ![image](https://github.com/user-attachments/assets/ff9ab564-2c3f-47b8-9fe6-77bb9806bf73)
+
+# Key Findings and Conclusions
+
+## Key Performance Indicators (KPIs)
+- **Average Attendance**: 79.98%
+- **Average Exam Score**: 67
+- **Average Sleep Hours**: 7.03 hours
+- **Average Hours Studied per Week**: 19.87 hours
+- **Average Physical Activity per Week**: 2.97 hours
+
+## Impact of Attendance and Tutoring
+- Analysis showed that lower attendance, combined with fewer or no tutoring sessions, correlates with lower exam scores.
+- Students who participated in more tutoring sessions tended to score higher.
+- Interestingly, students with high attendance (80-100%) often took fewer tutoring sessions but achieved better exam scores, indicating a direct relationship between attendance and performance.
+
+## Public vs. Private School Performance
+- The average exam score of public school students is higher than that of students in private schools.
+
+## Study Hours and Exam Performance
+- A significant decrease in average exam scores was observed for students who studied fewer hours than previously. In contrast, those who dedicated more time to studying tended to perform better.
+
+## Sleep and Exam Scores
+- To achieve average exam scores, students need approximately 7 hours of sleep. Most data points clustered around 60-70 exam scores for students averaging 7 hours of sleep.
+- To achieve higher marks, the data indicates a decline in average sleep hours.
+
+## Extracurricular Activities Participation
+- A pie chart revealed that 59% of students participate in extracurricular activities (ECA), while about 40.4% do not. This suggests that engaging in ECAs could be linked to better overall performance and student well-being.
+
+## Conclusions
+- Attendance significantly influences exam scores, emphasizing the importance of regular class participation.
+- The effectiveness of tutoring is clear, especially for students with lower attendance.
+- Public school students outperform private school students on average, warranting further investigation into curriculum differences or resource availability.
+- Increased study hours correlate positively with higher exam scores, highlighting the need for effective study habits.
+- Adequate sleep (around 7 hours) appears critical for optimal performance, yet high achievers may sacrifice sleep.
+- The high participation rate in extracurricular activities suggests a positive contribution to student engagement and performance.
 
 
 
