@@ -23,12 +23,12 @@ def glue_job_s3_redshift_transfer(job_name, **kwargs):
         JobName=job_name,
     )
 
-def get_run_id():
+def get_run_id(job_name, **kwargs):
     time.sleep(8)
     session = AwsGenericHook(aws_conn_id='aws_s3_conn')
     boto3_session = session.get_session(region_name=regionName)
     glue_client = boto3_session.client('glue')
-    response = glue_client.get_job_runs(JobName="s3_upload_to_redshift_gluejob")
+    response = glue_client.get_job_runs(JobName=job_name)
     job_run_id = response["JobRuns"][0]["Id"]
     return job_run_id 
 
@@ -59,6 +59,9 @@ with DAG('srudent_performance_factors_etl',
         grab_glue_job_run_id = PythonOperator(
         task_id='task_grab_glue_job_run_id',
         python_callable=get_run_id,
+              op_kwargs={
+            'job_name': 's3_upload_to_redshift_gluejob'
+        },
         )
 
         is_glue_job_finish_running = GlueJobSensor(
