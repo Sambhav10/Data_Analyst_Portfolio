@@ -148,7 +148,7 @@ engineering and analytics.
 - To achieve higher marks, the data indicates a decline in average sleep hours.
 
 ## Extracurricular Activities Participation
-- A pie chart revealed that 59% of students participate in extracurricular activities (ECA), while about 40.4% do not. This suggests that engaging in ECAs could be linked to better overall performance and student well-being.
+- A pie chart revealed that 59.6% of students participate in extracurricular activities (ECA), while about 40.4% do not. This suggests that engaging in ECAs could be linked to better overall performance and student well-being.
 
 ## Conclusions
 - Attendance significantly influences exam scores, emphasizing the importance of regular class participation.
